@@ -12,7 +12,7 @@
 
 The Melbourne aesthetic and skincare market is fiercely competitive, with clinics heavily clustered around premium inner-city hubs like South Yarra, Prahran, and Chapel Street. Standing out against established brands such as Aesop, Sukin, Go-To Skin Care, and dozens of high-end local clinics requires more than just standard digital marketing — it requires operational excellence, a superior client experience, and a flawless digital footprint.
 
-This proposal outlines a comprehensive, **6-month strategic partnership** designed specifically for Lueur. For an investment of $8,500 AUD per month, we provide a full-stack solution that combines aggressive growth marketing with cutting-edge AI automation. 
+This proposal outlines a comprehensive, **6-month strategic partnership** designed specifically for Lueur. For an investment of $8,500 AUD per month (excl. GST), we provide a full-stack solution that combines aggressive growth marketing with cutting-edge AI automation. 
 
 **Crucially, the complete redesign and development of your new website is included within this monthly retainer**, eliminating the need for a separate, large capital outlay. 
 
@@ -140,6 +140,8 @@ Google Ads will drive immediate, high-intent traffic to the clinic while the SEO
 - **Budget Management:** Careful monitoring of CPCs, optimizing strictly for Cost Per Lead (CPL) and Cost Per Acquisition (CPA).
 - **Ad Copy & Extensions:** Highlighting unique selling propositions (e.g., "AI Booking Available 24/7"), clear pricing guidance, and utilizing location, call, and sitelink extensions to dominate the Search Engine Results Page (SERP) real estate.
 - **Landing Page Synergy:** Ensuring every ad group directs to a highly relevant, treatment-specific landing page to maximize Quality Score and lower CPCs.
+
+*Note on TGA Compliance:* We strictly adhere to the Therapeutic Goods Administration (TGA) guidelines regarding the advertising of prescription-only medicines (e.g., botulinum toxin). We do not bid on restricted terms like "anti-wrinkle injections" or "dermal fillers." Instead, we capture intent through compliant, broader service terms.
 
 ### 5.4 Paid Social Media Advertising (Meta Ads)
 Social ads are highly effective for visual services like skin treatments, allowing us to generate demand rather than just capturing existing intent.
@@ -278,45 +280,31 @@ You are not just hiring an agency; you are partnering with a dedicated team of s
 
 ---
 
-## 10. Next Steps & Agreement
-
-To commence this 6-month partnership and begin the website redesign process immediately, the following steps are required:
-
-1. **Review & Approval:** Confirm alignment with the strategies, timelines, and investment outlined in this proposal.
-2. **Contract Execution:** Sign the formal 6-Month Service Agreement.
-3. **Onboarding:** Complete the comprehensive Client Onboarding Questionnaire. This will provide us with essential brand assets, access credentials for existing platforms, and details of your current booking or practice management system (or we can advise on the right platform during this stage).
-4. **Kickoff Meeting:** Schedule our initial 90-minute strategy session to finalize the website design brief, establish AI agent parameters, and set Month 1 priorities.
-
-We look forward to partnering with Lueur to build a dominant, automated, and highly profitable presence in the Melbourne skincare market.
-
-
----
-
-## 11. Detailed AI Implementation Specifications
+## 10. Detailed AI Implementation Specifications
 
 To fully understand the value of the AI integration, we must look at the technical specifications of what we are building for Lueur. This is not off-the-shelf software; it is a custom-engineered solution.
 
-### 11.1 The ElevenLabs Voice Agent Architecture
+### 10.1 The ElevenLabs Voice Agent Architecture
 The AI voice receptionist is built on a complex architecture designed for maximum reliability and human-like interaction.
 - **Voice Cloning & Selection:** We utilize ElevenLabs' premium voice library to select a voice that matches Lueur's brand identity (e.g., professional, empathetic, Australian accent). *Note: All patient data and voice interactions processed through this system will be handled in strict accordance with the Australian Privacy Act and the Australian Privacy Principles (APPs).*
 - **Conversational Logic Tree:** We map out every possible patient inquiry scenario. If the AI encounters a question outside its knowledge base (e.g., a complex medical question), it gracefully takes a message and flags it for human review.
 - **Latency Optimization:** The system is engineered for sub-500ms response times, ensuring the conversation flows naturally without awkward pauses.
 - **Booking System Webhook Integration:** The AI communicates with your booking platform in real-time. When a patient asks, "Do you have anything available next Tuesday afternoon?", the AI queries the booking calendar via API, retrieves available slots, and offers them verbally.
 
-### 11.2 Website Chatbot Capabilities
+### 10.2 Website Chatbot Capabilities
 The on-site chatbot acts as a digital concierge, guiding users through the conversion funnel.
 - **Pre-Consultation Questionnaires:** The bot can ask a series of questions (e.g., "How long have you been experiencing this skin concern?", "What products are you currently using?") and pass this data through to your booking or practice management system before the patient even arrives at the clinic.
 - **Dynamic Pricing Delivery:** Instead of burying pricing in PDFs, the bot can provide accurate pricing ranges based on the user's specific needs, increasing transparency and trust.
 
-### 11.3 Automation Risk Mitigation
-We understand that integrating AI into a medical/aesthetic environment carries risks. We mitigate these through:
+### 10.3 Automation Risk Mitigation
+We mitigate these risks through:
 - **Strict Guardrails:** The AI is programmed with "hard stops." It cannot give medical advice, diagnose conditions, or guarantee treatment outcomes.
 - **Human-in-the-Loop (HITL):** All AI interactions are transcribed and reviewed weekly by our team to identify areas for improvement and ensure compliance.
 - **Failover Protocols:** If the booking system API experiences downtime, the AI automatically reverts to a lead-capture mode, taking the patient's details for a manual callback.
 
 ---
 
-## 12. Deep Dive: Google Ads Treatment-Level Strategy
+## 11. Deep Dive: Google Ads Treatment-Level Strategy
 
 Generic advertising fails in Melbourne. Our Google Ads strategy is highly granular, breaking down campaigns by specific treatments to maximize relevance and Quality Score.
 
@@ -350,7 +338,7 @@ Generic advertising fails in Melbourne. Our Google Ads strategy is highly granul
 
 ---
 
-## 13. Deep Dive: SEO Content & Pillar Strategy
+## 12. Deep Dive: SEO Content & Pillar Strategy
 
 To build long-term organic traffic, we must establish Lueur as the absolute authority on skin health in Melbourne. We achieve this through a "Hub and Spoke" content model.
 
@@ -376,7 +364,7 @@ All content is written by specialized copywriters, medically reviewed (where nec
 
 ---
 
-## 14. The Lemniscate Advantage
+## 13. The Lemniscate Advantage
 
 Why partner with Lemniscate Marketing over another Melbourne agency?
 
@@ -387,7 +375,7 @@ Why partner with Lemniscate Marketing over another Melbourne agency?
 
 ---
 
-## 15. Final Summary of Deliverables
+## 14. Final Summary of Deliverables
 
 For absolute clarity, your $8,500 AUD/month (excl. GST) investment over 6 months includes:
 
@@ -416,11 +404,11 @@ For absolute clarity, your $8,500 AUD/month (excl. GST) investment over 6 months
 
 ---
 
-## 16. Comprehensive Meta Ads (Facebook & Instagram) Strategy
+## 15. Comprehensive Meta Ads (Facebook & Instagram) Strategy
 
 While Google Ads captures existing intent, Meta Ads are essential for generating new demand and staying top-of-mind. Our approach to Meta advertising for Lueur focuses on high-quality visual storytelling, educational content, and strategic retargeting.
 
-### 16.1 Campaign Architecture
+### 15.1 Campaign Architecture
 
 Our Meta Ads account structure is designed to move potential patients through the funnel efficiently:
 
@@ -442,20 +430,19 @@ Our Meta Ads account structure is designed to move potential patients through th
 - *Creative Focus:* Direct calls to action, limited-time offers (if applicable), and "AI Booking Available 24/7" messaging to reduce friction.
 - *KPIs:* Cost per Lead (CPL), Return on Ad Spend (ROAS).
 
-### 16.2 Creative Testing & Iteration
+### 15.2 Creative Testing & Iteration
 
 Ad fatigue is a significant issue on Meta platforms. To combat this, we implement a rigorous creative testing methodology:
-- **Dynamic Creative Optimization (DCO):** We utilize Meta's DCO to automatically test different combinations of images, videos, headlines, and primary text to find the winning variations.
-- **Weekly Creative Refreshes:** We introduce new creative assets every 7-14 days to prevent audience fatigue and maintain a low CPL.
+- **Dynamic Creative Optimization (DCO):** We utilize Meta's DCO to automatically test different combinations of images, headlines, and calls to action.
 - **Video-First Approach:** Given the visual nature of aesthetic treatments, video content (Reels, Stories, and in-feed videos) will constitute 70%+ of our ad creative.
 
 ---
 
-## 17. Organic Social Media Strategy Deep Dive
+## 16. Organic Social Media Strategy Deep Dive
 
 A strong organic social media presence is non-negotiable for a premium skin clinic. It serves as your digital storefront and a critical trust-building tool.
 
-### 17.1 Platform Focus & Objectives
+### 16.1 Platform Focus & Objectives
 - **Instagram:** The primary platform for aesthetic clinics. Focus on high-quality visual content, grid aesthetics, and engaging Stories.
   - *Objective:* Brand building, showcasing results, and community engagement.
 - **Pinterest:** A highly effective, often underutilized search engine for visual inspiration. Ideal for a premium Melbourne clinic. Focus on skincare routines, before/after transformations, and educational infographics.
@@ -463,7 +450,7 @@ A strong organic social media presence is non-negotiable for a premium skin clin
 - **TikTok (Optional/Recommended):** The platform for reach and virality. Focus on authentic, less polished, educational, and trend-driven content.
   - *Objective:* Reaching a broader demographic, debunking skincare myths, and showcasing the "human" side of the clinic.
 
-### 17.2 Content Pillars & Execution
+### 16.2 Content Pillars & Execution
 
 We organize content into specific pillars to ensure a balanced and engaging feed:
 
@@ -487,7 +474,7 @@ We organize content into specific pillars to ensure a balanced and engaging feed
 - *Examples:* Highlighting a specific treatment package, announcing new availability, or promoting a seasonal skincare focus.
 - *Format:* Graphic posts, direct-to-camera announcements.
 
-### 17.3 Community Management
+### 16.3 Community Management
 Social media is a two-way conversation. Our team will handle daily community management, including:
 - Responding to all comments and direct messages (DMs) within 24 hours.
 - Engaging with local businesses and relevant influencers in the South Yarra area.
@@ -495,11 +482,11 @@ Social media is a two-way conversation. Our team will handle daily community man
 
 ---
 
-## 18. The Role of AHPRA & TGA Compliance
+## 17. The Role of AHPRA & TGA Compliance
 
 Marketing a medical or aesthetic clinic in Australia requires strict adherence to the guidelines set by the Australian Health Practitioner Regulation Agency (AHPRA) and the Therapeutic Goods Administration (TGA). Non-compliance can result in severe penalties, account bans, and damage to your reputation.
 
-### 18.1 Our Compliance Framework
+### 17.1 Our Compliance Framework
 Lemniscate Marketing operates with a compliance-first mindset. All content, advertising, and website copy undergo a rigorous review process to ensure adherence to current regulations.
 
 - **No Misleading Claims:** We never use terms like "cure," "guaranteed," or "permanent" when describing treatments.
@@ -512,18 +499,18 @@ By integrating compliance into our workflow, we protect Lueur's brand while stil
 
 ---
 
-## 19. Advanced Analytics & Reporting Architecture
+## 18. Advanced Analytics & Reporting Architecture
 
 Transparency is a core value at Lemniscate Marketing. We don't hide behind vanity metrics like "impressions" or "likes." We focus on metrics that impact your bottom line: leads, bookings, and revenue.
 
-### 19.1 The Analytics Tech Stack
+### 18.1 The Analytics Tech Stack
 We deploy a robust analytics infrastructure to track every touchpoint in the patient journey:
 - **Google Analytics 4 (GA4):** For comprehensive website traffic analysis, user behavior tracking, and conversion path mapping.
 - **Google Tag Manager (GTM):** To efficiently manage and deploy tracking pixels without altering website code.
 - **Booking System API Reporting:** To track actual booked appointments and attribute them to specific marketing channels, integrated with your practice management platform.
 - **ElevenLabs Dashboard:** To monitor AI voice agent performance, call duration, and booking success rates.
 
-### 19.2 Custom Reporting Dashboard
+### 18.2 Custom Reporting Dashboard
 We will build a custom, real-time reporting dashboard (via Looker Studio or similar) accessible to you 24/7. This dashboard will visualize:
 - Total website traffic and traffic sources.
 - Total leads generated (calls, forms, AI chats).
@@ -531,7 +518,7 @@ We will build a custom, real-time reporting dashboard (via Looker Studio or simi
 - AI Voice Agent resolution rates.
 - Top-performing landing pages and ad creatives.
 
-### 19.3 The Monthly Strategic Review
+### 18.3 The Monthly Strategic Review
 Data is only valuable if it informs strategy. Each month, your Account Manager will provide a detailed written report accompanied by a 45-minute strategic review call. During this call, we will:
 - Review the past month's performance against our established KPIs.
 - Discuss insights and learnings from the data.
@@ -540,13 +527,26 @@ Data is only valuable if it informs strategy. Each month, your Account Manager w
 
 ---
 
-## 20. Conclusion: A Partnership for Growth
+## 19. Conclusion: A Partnership for Growth
 
 The Melbourne aesthetic market does not reward complacency. To thrive, Lueur must offer a superior digital experience, operate with maximum efficiency, and aggressively capture market share. 
 
 This 6-month strategic partnership provides the exact framework needed to achieve those goals. By combining a high-converting website redesign, cutting-edge AI automation, and data-driven growth marketing, we will position Lueur as a dominant force in South Yarra and beyond.
 
 We are ready to begin the transformation. We look forward to welcoming Lueur to the Lemniscate Marketing portfolio.
+
+---
+
+## 20. Next Steps & Agreement
+
+To commence this 6-month partnership and begin the website redesign process immediately, the following steps are required:
+
+1. **Review & Approval:** Confirm alignment with the strategies, timelines, and investment outlined in this proposal.
+2. **Contract Execution:** Sign the formal 6-Month Service Agreement.
+3. **Onboarding:** Complete the comprehensive Client Onboarding Questionnaire. This will provide us with essential brand assets, access credentials for existing platforms, and details of your current booking or practice management system (or we can advise on the right platform during this stage).
+4. **Kickoff Meeting:** Schedule our initial 90-minute strategy session to finalize the website design brief, establish AI agent parameters, and set Month 1 priorities.
+
+We look forward to partnering with Lueur to build a dominant, automated, and highly profitable presence in the Melbourne skincare market.
 
 ---
 
