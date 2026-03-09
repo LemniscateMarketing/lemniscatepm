@@ -6,10 +6,12 @@
 1. **Global Search & Replace:** Find all bracketed placeholders like `[Client Name]`, `[Location]`, `[Industry]`, and replace them with the specific client's details.
 2. **Local Market Research:** You MUST research the specific market for the client's location. Do not use generic data. Look up local competitors, search volume for their specific services, and regional advertising costs.
 3. **Update Advertising Benchmarks:** The pricing table in Section 2.2 contains placeholders for location-specific CPCs and CPMs. Use the Meta Ads Library, Google Keyword Planner, and local agency reports to find accurate, up-to-date figures for the client's target area. **Never use fabricated data.**
-4. **Customize the AI Section:** The AI & Automation section (Section 4) is a core differentiator. Keep the structure, but tailor the specific use cases (e.g., booking system integration, specific FAQs) to the client's operational needs.
-5. **Update the Team & Case Studies:** Fill in the team section with actual staff profiles. If you have relevant case studies, insert them in the designated optional section.
-6. **Strategic Pricing:** Review the investment breakdown in Section 7. Ensure the pricing reflects the scope of work, the local market rates, and your agency's required margins.
-7. **Final Review:** **CRITICAL:** Before sending the proposal to the client, you must remove this "How to Use This Template" section and delete all bracketed guidance notes (e.g., `[Research local market...]`) throughout the document. Verify all citations and footnotes.
+4. **Budget & KPI Consistency:** Always check that budget math is internally consistent — if you quote CPCs and a media budget, the resulting CPL targets must actually be achievable with those numbers. A sharp client will cross-check this.
+5. **Tax Transparency:** Always specify whether pricing is GST inclusive or exclusive (or the local tax equivalent). Just state it clearly — don't calculate the tax amount in the document.
+6. **Customize the AI Section:** The AI & Automation section (Section 4) is a core differentiator. Keep the structure, but tailor the specific use cases (e.g., booking system integration, specific FAQs) to the client's operational needs.
+7. **Update the Team & Case Studies:** Fill in the team section with actual staff profiles. If you have relevant case studies, insert them in the designated optional section.
+8. **Strategic Pricing:** Review the investment breakdown in Section 7. Ensure the pricing reflects the scope of work, the local market rates, and your agency's required margins.
+9. **Final Review:** **CRITICAL:** Before sending the proposal to the client, you must remove this "How to Use This Template" section and delete all bracketed guidance notes (e.g., `[Research local market...]`) throughout the document. Verify all citations and footnotes. Never place "End of Document" or similar markers mid-document — only at the very end.
 
 ---
 
@@ -153,8 +155,8 @@ Google Ads will drive immediate, high-intent traffic while the SEO strategy matu
 Social ads are highly effective for visual services, allowing us to generate demand rather than just capturing existing intent.
 
 - **Campaign Types:** 
-  - *Retargeting:* Staying top-of-mind for website visitors who didn't book immediately.
-  - *Local Awareness:* Reaching new audiences within a [e.g., 5-10km] radius based on demographic and interest targeting.
+  - *Retargeting:** Staying top-of-mind for website visitors who didn't book immediately.
+  - *Local Awareness:** Reaching new audiences within a [e.g., 5-10km] radius based on demographic and interest targeting.
 - **Creative Strategy:** Utilizing authentic imagery and educational video content.
 - **Cost Efficiency:** Managed actively to optimize CPM and CPL based on local market benchmarks.
 
@@ -358,8 +360,6 @@ For absolute clarity, your $[Monthly Amount] [Currency]/month investment include
 - Monthly comprehensive performance reports.
 - Dedicated Account Manager and strategic review calls.
 
-*End of Document*
-
 ---
 
 ## References & Data Sources
@@ -368,3 +368,5 @@ For absolute clarity, your $[Monthly Amount] [Currency]/month investment include
 
 [^1]: [Source Name], *[Title of Report or Article]* ([Year]). [Brief description of the data point, e.g., "Report detailing average CPCs in the specified region."]. Available at: [URL]
 [^2]: [Source Name], *[Title of Report or Article]* ([Year]). [Brief description of the data point]. Available at: [URL]
+
+*End of Document*
