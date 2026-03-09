@@ -67,7 +67,7 @@ The current website (ozmedica.com.au) will be completely reimagined under the ne
 
 ### 3.2 Key Features & Deliverables
 
-- **Custom UI/UX Design:** A bespoke, high-end design reflecting the premium nature of Lueur's treatments. We will utilize a modern tech stack (React/Next.js or a headless CMS approach) for lightning-fast load times.
+- **Custom UI/UX Design:** A bespoke, high-end design reflecting the premium nature of Lueur's treatments. We will build the site on WordPress, providing you with a highly customizable, client-friendly platform that ensures your team can easily update content without needing a developer for every small change.
 - **Mobile-First Development:** Industry data consistently shows that the majority of health and aesthetic clinic website traffic originates from mobile devices. The site will be engineered for the mobile user first.
 - **Treatment-Specific Landing Pages:** Development of dedicated, single-issue landing pages (e.g., Acne Management, Pigmentation Correction, Anti-Aging). Data shows that campaigns focused on one clear problem convert significantly higher than generic clinic pages.
 - **Before & After Galleries:** Integrated, compliant galleries showcasing authentic results to build trust, adhering strictly to AHPRA and TGA guidelines.
@@ -298,7 +298,7 @@ To fully understand the value of the AI integration, we must look at the technic
 
 ### 11.1 The ElevenLabs Voice Agent Architecture
 The AI voice receptionist is built on a complex architecture designed for maximum reliability and human-like interaction.
-- **Voice Cloning & Selection:** We utilize ElevenLabs' premium voice library to select a voice that matches Lueur's brand identity (e.g., professional, empathetic, Australian accent).
+- **Voice Cloning & Selection:** We utilize ElevenLabs' premium voice library to select a voice that matches Lueur's brand identity (e.g., professional, empathetic, Australian accent). *Note: All patient data and voice interactions processed through this system will be handled in strict accordance with the Australian Privacy Act and the Australian Privacy Principles (APPs).*
 - **Conversational Logic Tree:** We map out every possible patient inquiry scenario. If the AI encounters a question outside its knowledge base (e.g., a complex medical question), it gracefully takes a message and flags it for human review.
 - **Latency Optimization:** The system is engineered for sub-500ms response times, ensuring the conversation flows naturally without awkward pauses.
 - **Booking System Webhook Integration:** The AI communicates with your booking platform in real-time. When a patient asks, "Do you have anything available next Tuesday afternoon?", the AI queries the booking calendar via API, retrieves available slots, and offers them verbally.
@@ -328,11 +328,13 @@ Generic advertising fails in Melbourne. Our Google Ads strategy is highly granul
 - *Landing Page:* A dedicated page explaining laser modalities, recovery times, and showing specific laser before-and-afters.
 - *Expected CPC:* $18 - $28 (High competition, high margin)
 
-**Campaign 2: Cosmetic Injectables (If Applicable)**
-- *Ad Groups:* Anti-Wrinkle, Dermal Fillers, Lip Enhancement
-- *Targeting:* "Anti wrinkle injections Melbourne", "Best lip filler clinic near me"
-- *Landing Page:* Focus on practitioner credentials, safety protocols, and natural-looking results.
+**Campaign 2: Advanced Skin Rejuvenation & Cosmetic Services**
+- *Ad Groups:* Skin Rejuvenation, Facial Treatments, Cosmetic Clinic
+- *Targeting:* "Skin rejuvenation Melbourne", "Facial treatments near me", "Cosmetic clinic Melbourne", "Skin consultation South Yarra"
+- *Landing Page:* Focus on practitioner credentials, comprehensive skin assessments, safety protocols, and natural-looking results.
 - *Expected CPC:* $20 - $35+ (Extremely competitive)
+
+*Note on TGA Compliance:* We strictly adhere to the Therapeutic Goods Administration (TGA) guidelines regarding the advertising of prescription-only medicines (e.g., botulinum toxin). We do not bid on restricted terms like "anti-wrinkle injections" or "dermal fillers." Instead, we capture intent through compliant, broader service terms.
 
 **Campaign 3: Skin Rejuvenation & Peels**
 - *Ad Groups:* Chemical Peels, Microneedling, Hydrafacial
@@ -390,9 +392,10 @@ Why partner with Lemniscate Marketing over another Melbourne agency?
 For absolute clarity, your $8,500 AUD/month investment over 6 months includes:
 
 **Website & Tech:**
-- Complete custom website redesign and development (Mobile-first, SEO optimized).
+- Complete custom website redesign and development on WordPress (Mobile-first, SEO optimized).
 - Booking system integration for seamless online appointment scheduling (compatible with your existing platform or a new one we help you select).
-- Premium web hosting and ongoing maintenance.
+- Premium web hosting and ongoing maintenance for the duration of the 6-month engagement.
+- **Full Ownership Guarantee:** Upon completion of the website, Lueur owns the site outright. We provide you with full administrative credentials. If you choose not to renew the retainer after Month 6, you take your website with you, no strings attached (ongoing hosting/maintenance packages are available if desired).
 
 **AI & Automation:**
 - Custom ElevenLabs AI Voice Receptionist (24/7 call handling & booking).
@@ -501,7 +504,7 @@ Lemniscate Marketing operates with a compliance-first mindset. All content, adve
 
 - **No Misleading Claims:** We never use terms like "cure," "guaranteed," or "permanent" when describing treatments.
 - **Responsible Before & Afters:** All before-and-after imagery will be standardized (same lighting, angle, and posture) and accompanied by necessary disclaimers regarding individual results.
-- **Regulated Terminology:** We strictly avoid using brand names for prescription-only medications (e.g., using "anti-wrinkle injections" instead of specific brand names).
+- **Regulated Terminology & Keyword Compliance:** We strictly avoid using brand names or direct references to prescription-only medications in both website copy and Google Ads keywords, adhering to the updated TGA guidelines for cosmetic clinics.
 - **Compliant Review Management:** We navigate the complex rules around testimonials by ensuring any feedback mechanisms are neutral, un-incentivised, and focus on the overall clinic experience rather than clinical outcomes, keeping your Google Business Profile active but compliant.
 - **Incentive Restrictions:** We ensure any promotional offers or packages do not encourage the indiscriminate or unnecessary use of health services.
 
