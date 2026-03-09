@@ -3,7 +3,7 @@
 **Prepared for:** Lueur (formerly Ozmedica)  
 **Location:** Melbourne, Australia  
 **Engagement Type:** 6-Month Strategic Partnership  
-**Investment:** $8,500 AUD / month  
+**Investment:** $8,500 AUD / month (excl. GST)  
 **Date:** March 2026  
 
 ---
@@ -23,7 +23,7 @@ Our strategy is built on three core pillars:
 2. **AI & Automation Integration:** Deploying advanced AI voice receptionists (ElevenLabs) and intelligent booking chatbots to ensure you never miss a lead, 24/7.
 3. **Omnichannel Growth Marketing (Months 3-6):** Scaling SEO, Google Ads, and Meta Ads to dominate the local Melbourne market.
 
-We do not believe in overnight miracles. In a competitive landscape like Melbourne, building authority and achieving sustainable ROI takes time. This proposal is built on honesty, setting realistic benchmarks and executing a proven playbook for aesthetic clinics over a dedicated 6-month period.
+This proposal is built on absolute transparency. We provide a clear, structured roadmap to scale your clinic's digital presence, capture high-intent patients, and automate your front-desk operations over a dedicated 6-month period.
 
 ---
 
@@ -192,7 +192,7 @@ This is a highly structured 6-month engagement. The following timeline outlines 
 - Launch of Meta Ads retargeting and local awareness campaigns.
 - Commencement of monthly SEO content publishing (2-4 articles/month).
 - Organic social media posting begins.
-- **Expectation:** CPCs and CPLs will be at their highest as ad accounts build history. The AI Voice Agent will encounter edge cases requiring manual review and logic adjustments. The primary goal is data collection.
+- **Expectation:** We do not believe in overnight miracles. In a competitive landscape like Melbourne, building authority and achieving sustainable ROI takes time. CPCs and CPLs will be at their highest as ad accounts build history. The AI Voice Agent will encounter edge cases requiring manual review and logic adjustments. The primary goal is data collection.
 
 ### Month 4: Optimization & Refinement
 *Focus: Driving down costs, refining AI logic, and expanding automation.*
@@ -220,12 +220,12 @@ This is a highly structured 6-month engagement. The following timeline outlines 
 
 ## 7. Investment & Budget Breakdown
 
-The total investment for this 6-month strategic partnership is **$8,500 AUD per month**. 
+The total investment for this 6-month strategic partnership is **$8,500 AUD per month (excl. GST)**. 
 
 This is a comprehensive retainer that covers agency management fees, technology licensing (including ElevenLabs and AI tools), and direct advertising media spend. Crucially, it includes the complete redesign and development of your website.
 
 ### Internal Budget Allocation Strategy
-While the monthly invoice to Lueur remains a flat $8,500, our internal allocation of these funds shifts dynamically to support the project phases. This ensures that resources are deployed precisely where they are needed most during each stage of the 6-month engagement.
+While the monthly invoice to Lueur remains a flat $8,500 (excl. GST), our internal allocation of these funds shifts dynamically to support the project phases. This ensures that resources are deployed precisely where they are needed most during each stage of the 6-month engagement.
 
 **Months 1 & 2 (The Build Phase):**
 The vast majority of the budget is allocated to heavy development, design, and AI engineering.
@@ -240,7 +240,7 @@ With the infrastructure built and launched, the budget shifts heavily toward med
 - **Agency Management (Ads, SEO, Social):** ~$3,500 / month
 - **Tech Stack & AI Licensing:** ~$1,500 / month
 
-*Note: This is an internal allocation model to demonstrate value and resource distribution. You will be billed a flat $8,500 AUD per month for the 6-month duration.*
+*Note: This is an internal allocation model to demonstrate value and resource distribution. You will be billed a flat $8,500 AUD per month (excl. GST) for the 6-month duration.*
 
 ---
 
@@ -251,7 +251,7 @@ We do not guarantee specific lead volumes in Month 1, as doing so in the Melbour
 | Metric | Target Benchmark | Timeline |
 | :--- | :--- | :--- |
 | **Website Conversion Rate** | 3% - 5% | Achieved by Month 4 |
-| **Blended Cost Per Lead (CPL)** | $40 - $80 AUD | Stabilized by Month 4 |
+| **Blended Cost Per Lead (CPL)** | $80 - $150 AUD Target Range | Stabilized by Month 4 |
 | **AI Voice Booking Resolution Rate** | 50%–60%+ | Achieved by Month 4 |
 | **Organic Traffic Growth** | 5%–8% MoM Target Range | Beginning Month 4 |
 | **Google Ads CTR** | 4% - 6% | Achieved by Month 3 |
@@ -382,14 +382,14 @@ Why partner with Lemniscate Marketing over another Melbourne agency?
 
 1. **Specialization:** We specialise exclusively in the health and aesthetic sector. This means we understand the nuances, compliance regulations (AHPRA/TGA), and patient psychology that generalist agencies simply do not.
 2. **The Automation Edge:** Traditional agencies focus only on driving traffic. We focus on the entire pipeline — from the first click to the AI-handled phone call, to the automated follow-up email. We plug the leaks in your sales funnel.
-3. **Transparent Pricing:** No hidden fees for website redesigns. No opaque media spend margins. You know exactly where your $8,500 monthly investment is going.
+3. **Transparent Pricing:** No hidden fees for website redesigns. No opaque media spend margins. You know exactly where your $8,500/month (excl. GST) investment is going.
 4. **Data-Driven Honesty:** We won't promise you 100 new patients in Month 1. We provide realistic benchmarks based on actual Melbourne CPC data and hold ourselves accountable to those numbers.
 
 ---
 
 ## 15. Final Summary of Deliverables
 
-For absolute clarity, your $8,500 AUD/month investment over 6 months includes:
+For absolute clarity, your $8,500 AUD/month (excl. GST) investment over 6 months includes:
 
 **Website & Tech:**
 - Complete custom website redesign and development on WordPress (Mobile-first, SEO optimized).
