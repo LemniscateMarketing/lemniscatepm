@@ -35,16 +35,18 @@ Operating a skin clinic in Melbourne presents unique challenges that require str
 Melbourne is Australia's second-largest city and arguably its most competitive market for aesthetic and skin treatments. The inner suburbs are saturated with high-end clinics. Competing against established brands requires a distinct brand voice, superior user experience, and flawless operational efficiency. Patients are highly educated, discerning, and have an abundance of choices within a 5-kilometer radius.
 
 ### 2.2 Advertising Costs in 2026
-The cost of digital advertising in the health and beauty sector has steadily increased. Based on our analysis of the Australian market and proprietary agency data spanning 190+ months of health practice campaigns:
+The cost of digital advertising in the health and beauty sector has steadily increased. Australia is consistently one of the most expensive Meta Ads markets globally, sitting alongside the US, UK, and Canada in Tier 1 pricing — a reflection of strong consumer purchasing power and a highly competitive advertiser landscape.[^1] For health and aesthetic clinics specifically, Australian Google Ads data from 190+ months of real campaign analysis confirms the high-cost reality of this market.[^2]
+
+All figures below are in **Australian Dollars (AUD)**.
 
 | Advertising Channel | Metric | Benchmark (Melbourne, AU) | Context |
 | :--- | :--- | :--- | :--- |
-| **Google Ads** | CPC — High-Intent Service (e.g., "skin clinic Melbourne", "acne treatment South Yarra") | **$15.00 - $25.00+** | Highly competitive, bottom-of-funnel traffic ready to book. |
-| **Google Ads** | CPC — Branded / Product Terms | **$6.00 - $12.00** | Mid-funnel research traffic. |
-| **Meta Ads (Facebook/IG)** | CPM — Cold Audiences (local prospecting) | **$15 - $35 per 1,000 impressions** | Top-of-funnel awareness campaigns; Meta optimises on impressions, not clicks. |
-| **Meta Ads (Facebook/IG)** | CPM — Warm / Retargeting Audiences | **$8 - $15 per 1,000 impressions** | Lower CPM for engaged audiences already familiar with the brand. |
+| **Google Ads** | CPC — High-Intent Service (e.g., "skin clinic Melbourne", "acne treatment South Yarra") | **$15.00 - $25.00+ AUD** | Highly competitive, bottom-of-funnel traffic ready to book. Cosmetic and dermatology campaigns face some of the highest CPCs in the health sector.[^2] |
+| **Google Ads** | CPC — Branded / Product Terms | **$6.00 - $12.00 AUD** | Mid-funnel research traffic defending against competitors bidding on your brand name. |
+| **Meta Ads (Facebook/IG)** | CPM — Cold Audiences (local prospecting) | **$20 - $35 AUD per 1,000 impressions** | Top-of-funnel awareness campaigns. The average Australian Meta CPM across all industries is ~$15.73 USD (~$24 AUD); beauty and skincare verticals typically run above the all-industry average.[^3][^4] |
+| **Meta Ads (Facebook/IG)** | CPM — Warm / Retargeting Audiences | **$12 - $20 AUD per 1,000 impressions** | Retargeting audiences typically achieve 30–40% lower CPMs than cold prospecting audiences.[^4] |
 
-*Note on New Accounts:* As we build your new Google campaigns, initial CPCs will be at the higher end of the spectrum until we establish a strong Quality Score history. For Meta Ads, CPM is the primary cost metric — Facebook and Instagram optimise ad delivery based on impressions rather than clicks. We plan for these realities rather than hiding them.
+*Note on New Accounts:* As we build your new Google campaigns, initial CPCs will be at the higher end of the spectrum until we establish a strong Quality Score history. For Meta Ads, CPM is the primary cost metric — Facebook and Instagram optimise ad delivery based on impressions rather than clicks. It is also worth noting that in highly competitive verticals like skincare, CPMs can spike significantly above these benchmarks during peak periods (September–December).[^5] We plan for these realities rather than hiding them.
 
 ### 2.3 The Patient Journey & Expectations
 Consumers seeking skin treatments require a high level of trust before booking. The modern patient expects:
@@ -139,7 +141,7 @@ Social ads are highly effective for visual services like skin treatments, allowi
   - *Retargeting:* Staying top-of-mind for website visitors who didn't book immediately.
   - *Local Awareness:* Reaching new audiences within a 5-10km radius of the clinic based on demographic and interest targeting.
 - **Creative Strategy:** Utilizing authentic before-and-after imagery and educational video content featuring your practitioners. All creative will strictly adhere to AHPRA/TGA medical advertising guidelines to prevent account bans.
-- **Cost Efficiency:** Meta Ads are bought on a CPM (Cost Per Thousand Impressions) basis, with realistic benchmarks of $15–$35 CPM for cold audiences and $8–$15 CPM for warm retargeting audiences in the Australian beauty and skincare market. This makes Meta an efficient channel for building brand awareness at scale while keeping the blended Cost Per Lead (CPL) competitive.
+- **Cost Efficiency:** Meta Ads are bought on a CPM (Cost Per Thousand Impressions) basis. Based on current benchmark data, Australian beauty and skincare advertisers should expect CPMs of approximately $20–$35 AUD for cold prospecting audiences and $12–$20 AUD for warm retargeting audiences.[^3][^4] While these costs are higher than the global average — a reflection of Australia's Tier 1 advertiser market status[^1] — the quality of the audience and the visual nature of skincare treatments make Meta a highly effective channel for building brand awareness and feeding the retargeting funnel.
 
 ### 5.4 Organic Social Media Management
 Building a community and showcasing expertise through organic channels to build trust before the consultation.
@@ -549,3 +551,19 @@ The Melbourne aesthetic market does not reward complacency. To thrive, Lueur mus
 This 6-month strategic partnership provides the exact framework needed to achieve those goals. By combining a high-converting website redesign, cutting-edge AI automation, and data-driven growth marketing, we will position Lueur as a dominant force in South Yarra and beyond.
 
 We are ready to begin the transformation. We look forward to welcoming Lueur to the Lemniscate Marketing portfolio.
+
+---
+
+## References & Data Sources
+
+All advertising cost benchmarks cited in this proposal are drawn from publicly available industry research and proprietary agency data. Figures are presented in Australian Dollars (AUD) unless otherwise stated.
+
+[^1]: AdAmigo.ai, *Meta Ads CPM and CPC Benchmarks by Country in 2026* (2026). Australia is classified as a Tier 1 market alongside the US and UK, with an average CPM of $18.50 USD and a typical range of $15.00–$22.00 USD. Available at: https://www.adamigo.ai/blog/meta-ads-cpm-cpc-benchmarks-by-country-2026
+
+[^2]: Excite Media, *Google Ads Cost Benchmarks for Australian Health Practices* (February 2026). Analysis of 190+ months of real Google Ads data across Australian health practices, including medical spas and dermatology clinics. Confirms high CPC and CPL variability in the cosmetic sector, with CPL swings of 25–40% month-to-month. Available at: https://www.excitemedia.com.au/report-google-ads-cost-benchmarks-health/
+
+[^3]: Superads.ai, *Facebook Ads CPM Benchmarks in Australia (2025)* (2025–2026). Based on $3 billion in advertising data. Reports an average Australian CPM of $15.73 USD across all industries (March 2025–January 2026), with a November peak of $24.80 USD. Australia consistently ran ~21% below the global benchmark of $19.81 USD. Available at: https://www.superads.ai/facebook-ads-costs/cpm-cost-per-mille/australia
+
+[^4]: Mesha (Trymesha), *Average Facebook CPM for Beauty Brands — 2025 Benchmarks* (2025). Reports a global average CPM of $14.06 USD for the beauty vertical, with lookalike/prospecting audiences at $15.24 USD and retargeting audiences at $13.25 USD. Australian CPMs typically run above the global average given Tier 1 market status. Available at: https://trymesha.com/benchmark/facebook/cpm-beauty/
+
+[^5]: Redback Solutions, *Your 2026 Guide to Facebook Ads Costs in Australia* (November 2025). Notes that the average CPM in Australia ranges from AU$10 to over AU$20 for high-quality traffic, and that "super competitive industries like skincare can face CPMs as high as AU$80" during peak periods. Available at: https://www.rb.com.au/blog/facebook-ads-cost/
