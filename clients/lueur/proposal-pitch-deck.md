@@ -37,13 +37,14 @@ Melbourne is Australia's second-largest city and arguably its most competitive m
 ### 2.2 Advertising Costs in 2026
 The cost of digital advertising in the health and beauty sector has steadily increased. Based on our analysis of the Australian market and proprietary agency data spanning 190+ months of health practice campaigns:
 
-| Advertising Channel | Keyword/Targeting Type | Average Cost Per Click (CPC) | Context |
+| Advertising Channel | Metric | Benchmark (Melbourne, AU) | Context |
 | :--- | :--- | :--- | :--- |
-| **Google Ads** | High-Intent Service (e.g., "skin clinic Melbourne", "acne treatment South Yarra") | **$15.00 - $25.00+** | Highly competitive, bottom-of-funnel traffic ready to book. |
-| **Google Ads** | Branded / Product Terms | **$6.00 - $12.00** | Mid-funnel research traffic. |
-| **Meta Ads (Facebook/IG)** | Local Radius Targeting | **$1.20 - $2.80** | Top-of-funnel awareness; requires strong visual creative to convert. |
+| **Google Ads** | CPC — High-Intent Service (e.g., "skin clinic Melbourne", "acne treatment South Yarra") | **$15.00 - $25.00+** | Highly competitive, bottom-of-funnel traffic ready to book. |
+| **Google Ads** | CPC — Branded / Product Terms | **$6.00 - $12.00** | Mid-funnel research traffic. |
+| **Meta Ads (Facebook/IG)** | CPM — Cold Audiences (local prospecting) | **$15 - $35 per 1,000 impressions** | Top-of-funnel awareness campaigns; Meta optimises on impressions, not clicks. |
+| **Meta Ads (Facebook/IG)** | CPM — Warm / Retargeting Audiences | **$8 - $15 per 1,000 impressions** | Lower CPM for engaged audiences already familiar with the brand. |
 
-*Note on New Accounts:* As we build your new campaigns, initial CPCs will be at the higher end of these spectrums until we establish a strong Quality Score history with Google. We plan for this reality rather than hiding it.
+*Note on New Accounts:* As we build your new Google campaigns, initial CPCs will be at the higher end of the spectrum until we establish a strong Quality Score history. For Meta Ads, CPM is the primary cost metric — Facebook and Instagram optimise ad delivery based on impressions rather than clicks. We plan for these realities rather than hiding them.
 
 ### 2.3 The Patient Journey & Expectations
 Consumers seeking skin treatments require a high level of trust before booking. The modern patient expects:
@@ -69,13 +70,13 @@ The current website (ozmedica.com.au) will be completely reimagined under the ne
 - **Treatment-Specific Landing Pages:** Development of dedicated, single-issue landing pages (e.g., Acne Management, Pigmentation Correction, Anti-Aging). Data shows that campaigns focused on one clear problem convert significantly higher than generic clinic pages.
 - **Before & After Galleries:** Integrated, compliant galleries showcasing authentic results to build trust, adhering strictly to AHPRA and TGA guidelines.
 - **Technical SEO Foundation:** Built from the ground up for speed, security (SSL), structured data (Schema markup for local medical businesses), and search engine crawlability.
-- **Halaxy Integration:** Seamless embedding of your Halaxy booking widgets to ensure a frictionless patient scheduling experience directly from the site.
+- **Booking System Integration:** Seamless integration with your existing practice management and booking platform — whether that is your current system or one we help you select. We will embed booking widgets and connect APIs to ensure a frictionless patient scheduling experience directly from the site.
 
 ### 3.3 Website Development Timeline
 - **Weeks 1-2:** Brand discovery, sitemap architecture, and UX wireframing.
 - **Weeks 3-4:** High-fidelity UI design and client approval rounds.
 - **Weeks 5-6:** Front-end and back-end development, CMS integration.
-- **Weeks 7-8:** Content loading, Halaxy API integration, QA testing, and official launch.
+- **Weeks 7-8:** Content loading, booking system API integration, QA testing, and official launch.
 
 ---
 
@@ -88,14 +89,14 @@ Missed calls equal missed revenue. A significant portion of healthcare inquiries
 
 - **24/7 Availability:** The AI agent answers calls after hours, during busy periods, or on weekends.
 - **Intelligent Triage & FAQ:** The agent can answer common questions regarding pricing, clinic location, parking availability, and pre-treatment preparation.
-- **Direct Booking Integration:** The voice agent will be integrated directly with your Halaxy practice management software via API. The AI can check real-time availability and book appointments directly into your calendar mid-conversation, sending an immediate confirmation SMS to the patient.
+- **Direct Booking Integration:** The voice agent will be integrated directly with your practice management and booking platform via API. Whether you are using an existing system or we help you select the right one, the AI can check real-time availability and book appointments directly into your calendar mid-conversation, sending an immediate confirmation SMS to the patient.
 
 ### 4.2 Website AI Chatbot
 A sophisticated, agentic AI chatbot deployed on the new Lueur website to capture high-intent traffic that prefers text over calling.
 
 - **Proactive Lead Capture:** Engages visitors instantly, pre-qualifying leads based on their specific skin concerns (e.g., "Are you looking for help with acne, aging, or pigmentation?").
 - **Treatment Guidance:** Recommends specific initial consultations based on user inputs.
-- **Automated Scheduling:** Connects to Halaxy to allow users to book directly through the chat interface without leaving the page.
+- **Automated Scheduling:** Connects to your booking platform to allow users to schedule appointments directly through the chat interface without leaving the page.
 
 ### 4.3 Marketing Automation & Email Sequences
 We will build robust automation workflows to nurture leads, reduce no-shows, and retain existing clients, increasing Customer Lifetime Value (CLV).
@@ -138,7 +139,7 @@ Social ads are highly effective for visual services like skin treatments, allowi
   - *Retargeting:* Staying top-of-mind for website visitors who didn't book immediately.
   - *Local Awareness:* Reaching new audiences within a 5-10km radius of the clinic based on demographic and interest targeting.
 - **Creative Strategy:** Utilizing authentic before-and-after imagery and educational video content featuring your practitioners. All creative will strictly adhere to AHPRA/TGA medical advertising guidelines to prevent account bans.
-- **Cost Efficiency:** Leveraging lower CPCs on Meta platforms to drive brand awareness and initial inquiries, feeding the retargeting funnel and driving down overall blended CPL.
+- **Cost Efficiency:** Meta Ads are bought on a CPM (Cost Per Thousand Impressions) basis, with realistic benchmarks of $15–$35 CPM for cold audiences and $8–$15 CPM for warm retargeting audiences in the Australian beauty and skincare market. This makes Meta an efficient channel for building brand awareness at scale while keeping the blended Cost Per Lead (CPL) competitive.
 
 ### 5.4 Organic Social Media Management
 Building a community and showcasing expertise through organic channels to build trust before the consultation.
@@ -167,10 +168,10 @@ This is a highly structured 6-month engagement. The following timeline outlines 
 - Drafting of foundational email marketing sequences.
 
 ### Month 2: Launch & Automation Deployment
-*Focus: Website go-live, Halaxy integration, and AI deployment.*
+*Focus: Website go-live, booking system integration, and AI deployment.*
 - Finalize website development and content integration.
 - **Milestone:** Official launch of the new Lueur website.
-- Integration of Halaxy API for online bookings across the site.
+- Integration of booking system API for online appointments across the site.
 - Deployment of the AI Website Chatbot.
 - Testing and go-live of the ElevenLabs AI Voice Receptionist.
 - Activation of foundational email marketing automations (Welcome & Follow-up sequences).
@@ -220,7 +221,7 @@ While the monthly invoice to Lueur remains a flat $8,500, our internal allocatio
 **Months 1 & 2 (The Build Phase):**
 The vast majority of the budget is allocated to heavy development, design, and AI engineering.
 - Custom Website Design & Development
-- ElevenLabs Voice Agent Training & Halaxy API Integration
+- ElevenLabs Voice Agent Training & Booking System API Integration
 - Marketing Automation Setup & Copywriting
 - Foundational SEO & Tracking Setup
 
@@ -246,7 +247,7 @@ We do not guarantee specific lead volumes in Month 1, as doing so in the Melbour
 | **Organic Traffic Growth** | 10% MoM Increase | Beginning Month 4 |
 | **Google Ads CTR** | 4% - 6% | Achieved by Month 3 |
 
-*Definition of a Lead:* A submitted consultation request form, a direct phone call lasting over 60 seconds, or a completed booking via Halaxy.
+*Definition of a Lead:* A submitted consultation request form, a direct phone call lasting over 60 seconds, or a completed booking via your practice management system.
 
 ---
 
@@ -271,7 +272,7 @@ We do not guarantee specific lead volumes in Month 1, as doing so in the Melbour
 You are not just hiring an agency; you are partnering with a dedicated team of specialists.
 
 - **Account Manager:** Your primary point of contact, responsible for strategy alignment and monthly reporting.
-- **Lead Developer & AI Engineer:** Responsible for the website build and ElevenLabs/Halaxy integrations.
+- **Lead Developer & AI Engineer:** Responsible for the website build, ElevenLabs voice agent deployment, and booking system integrations.
 - **Performance Marketer:** Manages the day-to-day optimization of Google and Meta ad campaigns.
 - **Content Strategist:** Oversees SEO content, social media, and email marketing copy.
 
@@ -288,7 +289,7 @@ To commence this 6-month partnership and begin the website redesign process imme
 
 1. **Review & Approval:** Confirm alignment with the strategies, timelines, and investment outlined in this proposal.
 2. **Contract Execution:** Sign the formal 6-Month Service Agreement.
-3. **Onboarding:** Complete the comprehensive Client Onboarding Questionnaire. This will provide us with essential brand assets, Halaxy API keys, and access credentials for existing platforms.
+3. **Onboarding:** Complete the comprehensive Client Onboarding Questionnaire. This will provide us with essential brand assets, access credentials for existing platforms, and details of your current booking or practice management system (or we can advise on the right platform during this stage).
 4. **Kickoff Meeting:** Schedule our initial 90-minute strategy session to finalize the website design brief, establish AI agent parameters, and set Month 1 priorities.
 
 We look forward to partnering with Lueur to build a dominant, automated, and highly profitable presence in the Melbourne skincare market.
@@ -305,18 +306,18 @@ The AI voice receptionist is built on a complex architecture designed for maximu
 - **Voice Cloning & Selection:** We utilize ElevenLabs' premium voice library to select a voice that matches Lueur's brand identity (e.g., professional, empathetic, Australian accent).
 - **Conversational Logic Tree:** We map out every possible patient inquiry scenario. If the AI encounters a question outside its knowledge base (e.g., a complex medical question), it gracefully takes a message and flags it for human review.
 - **Latency Optimization:** The system is engineered for sub-500ms response times, ensuring the conversation flows naturally without awkward pauses.
-- **Halaxy Webhook Integration:** The AI communicates with Halaxy in real-time. When a patient asks, "Do you have anything available next Tuesday afternoon?", the AI queries the Halaxy calendar via API, retrieves available slots, and offers them verbally.
+- **Booking System Webhook Integration:** The AI communicates with your booking platform in real-time. When a patient asks, "Do you have anything available next Tuesday afternoon?", the AI queries the booking calendar via API, retrieves available slots, and offers them verbally.
 
 ### 12.2 Website Chatbot Capabilities
 The on-site chatbot acts as a digital concierge, guiding users through the conversion funnel.
-- **Pre-Consultation Questionnaires:** The bot can ask a series of questions (e.g., "How long have you been experiencing this skin concern?", "What products are you currently using?") and append this data to the patient's Halaxy file before they even arrive at the clinic.
+- **Pre-Consultation Questionnaires:** The bot can ask a series of questions (e.g., "How long have you been experiencing this skin concern?", "What products are you currently using?") and pass this data through to your booking or practice management system before the patient even arrives at the clinic.
 - **Dynamic Pricing Delivery:** Instead of burying pricing in PDFs, the bot can provide accurate pricing ranges based on the user's specific needs, increasing transparency and trust.
 
 ### 12.3 Automation Risk Mitigation
 We understand that integrating AI into a medical/aesthetic environment carries risks. We mitigate these through:
 - **Strict Guardrails:** The AI is programmed with "hard stops." It cannot give medical advice, diagnose conditions, or guarantee treatment outcomes.
 - **Human-in-the-Loop (HITL):** All AI interactions are transcribed and reviewed weekly by our team to identify areas for improvement and ensure compliance.
-- **Failover Protocols:** If the Halaxy API experiences downtime, the AI automatically reverts to a lead-capture mode, taking the patient's details for a manual callback.
+- **Failover Protocols:** If the booking system API experiences downtime, the AI automatically reverts to a lead-capture mode, taking the patient's details for a manual callback.
 
 ---
 
@@ -395,7 +396,7 @@ For absolute clarity, your $8,500 AUD/month investment over 6 months includes:
 
 **Website & Tech:**
 - Complete custom website redesign and development (Mobile-first, SEO optimized).
-- Halaxy API integration for seamless online booking.
+- Booking system integration for seamless online appointment scheduling (compatible with your existing platform or a new one we help you select).
 - Premium web hosting and ongoing maintenance.
 
 **AI & Automation:**
@@ -438,10 +439,10 @@ Our Meta Ads account structure is designed to move potential patients through th
 - *Objective:* Nurture users who have interacted with our TOFU ads or organic social media but haven't yet visited the website.
 - *Targeting:* Engaged social followers, video viewers (50%+ completion).
 - *Creative Focus:* Deep dives into specific treatments, patient testimonials, and before-and-after galleries (strictly adhering to AHPRA guidelines).
-- *KPIs:* Cost per Click (CPC), Landing Page Views.
+- *KPIs:* Cost per 1,000 Impressions (CPM), Landing Page Views, Link Click-Through Rate.
 
 **Bottom of Funnel (BOFU) - Retargeting & Conversion:**
-- *Objective:* Convert users who have visited the Lueur website or abandoned the Halaxy booking process.
+- *Objective:* Convert users who have visited the Lueur website or abandoned the online booking process.
 - *Targeting:* Website visitors (past 30, 60, 90 days), specific landing page viewers.
 - *Creative Focus:* Direct calls to action, limited-time offers (if applicable), and "AI Booking Available 24/7" messaging to reduce friction.
 - *KPIs:* Cost per Lead (CPL), Return on Ad Spend (ROAS).
@@ -521,7 +522,7 @@ Transparency is a core value at Lemniscate Marketing. We don't hide behind vanit
 We deploy a robust analytics infrastructure to track every touchpoint in the patient journey:
 - **Google Analytics 4 (GA4):** For comprehensive website traffic analysis, user behavior tracking, and conversion path mapping.
 - **Google Tag Manager (GTM):** To efficiently manage and deploy tracking pixels without altering website code.
-- **Halaxy API Reporting:** To track actual booked appointments and attribute them to specific marketing channels.
+- **Booking System API Reporting:** To track actual booked appointments and attribute them to specific marketing channels, integrated with your practice management platform.
 - **ElevenLabs Dashboard:** To monitor AI voice agent performance, call duration, and booking success rates.
 
 ### 20.2 Custom Reporting Dashboard
