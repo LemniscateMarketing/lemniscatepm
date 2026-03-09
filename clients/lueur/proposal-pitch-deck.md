@@ -115,7 +115,7 @@ To maintain a high volume of quality content for SEO and social media without bo
 
 ## 5. Core Deliverable 3: Omnichannel Growth Marketing
 
-Once the website and automation infrastructure are launched (End of Month 2), the retainer budget shifts heavily toward driving traffic and generating leads through targeted marketing.
+Once the website and automation infrastructure are launched (End of Month 2), our agency resources shift heavily toward active campaign management, driving traffic, and generating leads through targeted marketing.
 
 ### 5.1 Domain Migration & Rebrand Strategy
 Transitioning from `ozmedica.com.au` to the new Lueur domain carries significant SEO risk if not handled correctly. Our Month 1 and 2 strategy includes a meticulous domain migration protocol to preserve your existing search equity:
@@ -213,7 +213,7 @@ This is a highly structured 6-month engagement. The following timeline outlines 
 
 ### Month 6: Review, Reporting & Future Strategy
 *Focus: Consolidating gains, comprehensive reporting, and planning the next phase.*
-- Paid campaigns operating at peak efficiency within the allocated budget.
+- Paid campaigns operating at peak efficiency within the agreed media budget.
 - Comprehensive review of the 6-month engagement, analyzing total leads generated, AI booking success rates, and overall ROI.
 - Delivery of the Final Report & Results Summary.
 - Strategic planning session for the next phase of growth and retainer renewal.
@@ -222,27 +222,19 @@ This is a highly structured 6-month engagement. The following timeline outlines 
 
 ## 7. Investment & Budget Breakdown
 
-The total investment for this 6-month strategic partnership is **$8,500 AUD per month (excl. GST)**. 
+The total agency investment for this 6-month strategic partnership is **$8,500 AUD per month (excl. GST)**. 
 
-This is a comprehensive retainer that covers agency management fees, technology licensing (including ElevenLabs and AI tools), and direct advertising media spend. Crucially, it includes the complete redesign and development of your website.
+This professional retainer covers all agency services, including full-stack marketing management, strategic oversight, and the complete redesign and development of your new website. It also includes the licensing and engineering of your AI automation suite (including ElevenLabs and intelligent booking agents).
 
-### Internal Budget Allocation Strategy
-While the monthly invoice to Lueur remains a flat $8,500 (excl. GST), our internal allocation of these funds shifts dynamically to support the project phases. This ensures that resources are deployed precisely where they are needed most during each stage of the 6-month engagement.
+### Advertising Media Spend (Separate)
+Please note that **Direct Media Spend (Google Ads and Meta Ads) is not included in the $8,500 agency fee.** 
 
-**Months 1 & 2 (The Build Phase):**
-The vast majority of the budget is allocated to heavy development, design, and AI engineering.
-- Custom Website Design & Development
-- ElevenLabs Voice Agent Training & Booking System API Integration
-- Marketing Automation Setup & Copywriting
-- Foundational SEO & Tracking Setup
+Advertising spend is billed at cost directly from the platforms (Google and Meta) to your clinic. Lemniscate Marketing takes zero margin on your media spend, ensuring 100% transparency and maximum efficiency. 
 
-**Months 3 to 6 (The Growth Phase):**
-With the infrastructure built and launched, the budget shifts heavily toward media spend and active campaign management.
-- **Direct Media Spend (Google & Meta):** ~$3,500 / month
-- **Agency Management (Ads, SEO, Social):** ~$3,500 / month
-- **Tech Stack & AI Licensing:** ~$1,500 / month
+**Recommended Media Budget:**
+The optimal monthly media budget will be **To Be Determined (TBD)** following our deep-dive onboarding, discovery session, and initial technical audits. During Month 1 and 2, we will work with you to define a media budget that aligns with your specific growth goals, treatment margins, and the current Melbourne market conditions. 
 
-*Note: This is an internal allocation model to demonstrate value and resource distribution. You will be billed a flat $8,500 AUD per month (excl. GST) for the 6-month duration.*
+This approach ensures your marketing spend is always data-driven and scalable based on real-world performance.
 
 ---
 
@@ -370,14 +362,16 @@ Why partner with Lemniscate Marketing over another Melbourne agency?
 
 1. **Specialization:** We specialise exclusively in the health and aesthetic sector. This means we understand the nuances, compliance regulations (AHPRA/TGA), and patient psychology that generalist agencies simply do not.
 2. **The Automation Edge:** Traditional agencies focus only on driving traffic. We focus on the entire pipeline — from the first click to the AI-handled phone call, to the automated follow-up email. We plug the leaks in your sales funnel.
-3. **Transparent Pricing:** No hidden fees for website redesigns. No opaque media spend margins. You know exactly where your $8,500/month (excl. GST) investment is going.
+3. **Transparent Pricing:** No hidden fees for website redesigns. We take zero margin on your media spend, which is billed at cost. You know exactly where your $8,500/month (excl. GST) agency investment is going.
 4. **Data-Driven Honesty:** We won't promise you 100 new patients in Month 1. We provide realistic benchmarks based on actual Melbourne CPC data and hold ourselves accountable to those numbers.
 
 ---
 
 ## 14. Final Summary of Deliverables
 
-For absolute clarity, your $8,500 AUD/month (excl. GST) investment over 6 months includes:
+For absolute clarity, your $8,500 AUD/month (excl. GST) agency investment over 6 months includes all professional services and technology licensing. **Advertising media spend is separate and billed at cost.**
+
+The $8,500 monthly fee includes:
 
 **Website & Tech:**
 - Complete custom website redesign and development on WordPress (Mobile-first, SEO optimized).
