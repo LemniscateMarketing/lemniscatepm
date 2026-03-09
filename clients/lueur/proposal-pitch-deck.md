@@ -105,7 +105,7 @@ We will build robust automation workflows to nurture leads, reduce no-shows, and
 
 - **The Welcome Sequence:** An automated email series introducing new clients to the Lueur brand, your practitioners' expertise, and clinic etiquette.
 - **Appointment Reminders & Prep:** Automated SMS and email triggers 48 hours and 24 hours prior to appointments, including specific pre-treatment instructions.
-- **Post-Treatment Follow-ups:** Automated emails triggered post-appointment, providing aftercare instructions and requesting Google reviews (crucial for Local SEO).
+- **Post-Treatment Follow-ups:** Automated emails triggered post-appointment, providing crucial aftercare instructions. *Note: In strict adherence to AHPRA guidelines regarding testimonials, we do not solicit reviews using incentives, nor do we selectively request reviews only from satisfied patients. We provide a neutral, compliant mechanism for patients to share their general clinic experience.*
 - **Re-engagement Campaigns:** Automated sequences targeting clients who haven't booked in 3+ months with special offers or new treatment announcements.
 
 ### 4.4 AI-Powered Content Workflows
@@ -117,16 +117,23 @@ To maintain a high volume of quality content for SEO and social media without bo
 
 Once the website and automation infrastructure are launched (End of Month 2), the retainer budget shifts heavily toward driving traffic and generating leads through targeted marketing.
 
-### 5.1 Search Engine Optimization (SEO)
-SEO is a long-term investment essential for reducing reliance on paid advertising over time. In the Melbourne market, local relevance is everything.
+### 5.1 Domain Migration & Rebrand Strategy
+Transitioning from `ozmedica.com.au` to the new Lueur domain carries significant SEO risk if not handled correctly. Our Month 1 and 2 strategy includes a meticulous domain migration protocol to preserve your existing search equity:
+- **301 Redirect Mapping:** Every single URL on the existing Ozmedica site will be mapped and permanently redirected (301) to its most relevant counterpart on the new Lueur domain, ensuring no "404 Not Found" errors and preserving backlink juice.
+- **Google Business Profile (GBP) Transition:** We will carefully update the existing Ozmedica GBP to reflect the new Lueur branding, rather than creating a new profile from scratch. This preserves your existing Google reviews and local map ranking history.
+- **Legacy Brand Capture:** We will implement specific "Ozmedica is now Lueur" landing pages and metadata to capture patients still searching for the old brand name, ensuring zero drop-off in returning patient traffic.
+- **Post-Migration Monitoring:** Intensive daily tracking in Google Search Console for the first 30 days post-launch to immediately identify and fix any indexing drops or crawl errors.
 
-- **Local SEO Dominance:** Aggressive optimization of your Google Business Profile (GBP). We will manage reviews, post weekly updates, and ensure NAP (Name, Address, Phone) consistency across all local directories to capture high-intent "near me" searches in South Yarra and surrounding suburbs.
+### 5.2 Search Engine Optimization (SEO)
+Beyond the migration, SEO is a long-term investment essential for reducing reliance on paid advertising over time. In the Melbourne market, local relevance is everything.
+
+- **Local SEO Dominance:** Aggressive optimization of your Google Business Profile (GBP). We will manage updates and ensure NAP (Name, Address, Phone) consistency across all local directories to capture high-intent "near me" searches in South Yarra and surrounding suburbs.
 - **Content Strategy:** Publishing authoritative, keyword-optimized articles addressing common skin concerns. This builds topical authority and captures top-of-funnel traffic (e.g., "Best treatments for rosacea in winter").
 - **Technical & On-Page SEO:** Continuous monitoring of site speed, mobile usability, and internal linking structures.
 - **Backlink Acquisition:** Building local citations and authoritative links from relevant health and beauty publications to increase domain authority.
 - *Timeline Expectation:* Meaningful SEO movement typically takes 4-6 months. Our goal is to establish a strong foundation during this 6-month engagement for long-term compounding growth.
 
-### 5.2 Google Ads (Search & Local)
+### 5.3 Google Ads (Search & Local)
 Google Ads will drive immediate, high-intent traffic to the clinic while the SEO strategy matures. We manage this with a strict focus on ROI, acknowledging the high CPCs in Melbourne.
 
 - **Targeting Strategy:** Focusing on specific, high-margin treatments (e.g., specific laser modalities, advanced peels) rather than broad, highly competitive terms like "beauty salon" to maximize budget efficiency.
@@ -134,7 +141,7 @@ Google Ads will drive immediate, high-intent traffic to the clinic while the SEO
 - **Ad Copy & Extensions:** Highlighting unique selling propositions (e.g., "AI Booking Available 24/7"), clear pricing guidance, and utilizing location, call, and sitelink extensions to dominate the Search Engine Results Page (SERP) real estate.
 - **Landing Page Synergy:** Ensuring every ad group directs to a highly relevant, treatment-specific landing page to maximize Quality Score and lower CPCs.
 
-### 5.3 Paid Social Media Advertising (Meta Ads)
+### 5.4 Paid Social Media Advertising (Meta Ads)
 Social ads are highly effective for visual services like skin treatments, allowing us to generate demand rather than just capturing existing intent.
 
 - **Campaign Types:** 
@@ -143,7 +150,7 @@ Social ads are highly effective for visual services like skin treatments, allowi
 - **Creative Strategy:** Utilizing authentic before-and-after imagery and educational video content featuring your practitioners. All creative will strictly adhere to AHPRA/TGA medical advertising guidelines to prevent account bans.
 - **Cost Efficiency:** Meta Ads are bought on a CPM (Cost Per Thousand Impressions) basis. Based on current benchmark data, Australian beauty and skincare advertisers should expect CPMs of approximately $20–$35 AUD for cold prospecting audiences and $12–$20 AUD for warm retargeting audiences.[^3][^4] While these costs are higher than the global average — a reflection of Australia's Tier 1 advertiser market status[^1] — the quality of the audience and the visual nature of skincare treatments make Meta a highly effective channel for building brand awareness and feeding the retargeting funnel.
 
-### 5.4 Organic Social Media Management
+### 5.5 Organic Social Media Management
 Building a community and showcasing expertise through organic channels to build trust before the consultation.
 
 - **Platforms:** Instagram, Pinterest, and TikTok.
@@ -246,7 +253,7 @@ We do not guarantee specific lead volumes in Month 1, as doing so in the Melbour
 | **Website Conversion Rate** | 3% - 5% | Achieved by Month 4 |
 | **Blended Cost Per Lead (CPL)** | $40 - $80 AUD | Stabilized by Month 4 |
 | **AI Voice Booking Resolution Rate** | 50%–60%+ | Achieved by Month 4 |
-| **Organic Traffic Growth** | 10% MoM Increase | Beginning Month 4 |
+| **Organic Traffic Growth** | 5%–8% MoM Target Range | Beginning Month 4 |
 | **Google Ads CTR** | 4% - 6% | Achieved by Month 3 |
 
 *Definition of a Lead:* A submitted consultation request form, a direct phone call lasting over 60 seconds, or a completed booking via your practice management system.
@@ -495,6 +502,7 @@ Lemniscate Marketing operates with a compliance-first mindset. All content, adve
 - **No Misleading Claims:** We never use terms like "cure," "guaranteed," or "permanent" when describing treatments.
 - **Responsible Before & Afters:** All before-and-after imagery will be standardized (same lighting, angle, and posture) and accompanied by necessary disclaimers regarding individual results.
 - **Regulated Terminology:** We strictly avoid using brand names for prescription-only medications (e.g., using "anti-wrinkle injections" instead of specific brand names).
+- **Compliant Review Management:** We navigate the complex rules around testimonials by ensuring any feedback mechanisms are neutral, un-incentivised, and focus on the overall clinic experience rather than clinical outcomes, keeping your Google Business Profile active but compliant.
 - **Incentive Restrictions:** We ensure any promotional offers or packages do not encourage the indiscriminate or unnecessary use of health services.
 
 By integrating compliance into our workflow, we protect Lueur's brand while still executing aggressive growth strategies.
