@@ -362,7 +362,7 @@ Why partner with Lemniscate Marketing over another Melbourne agency?
 
 1. **Specialization:** We specialise exclusively in the health and aesthetic sector. This means we understand the nuances, compliance regulations (AHPRA/TGA), and patient psychology that generalist agencies simply do not.
 2. **The Automation Edge:** Traditional agencies focus only on driving traffic. We focus on the entire pipeline — from the first click to the AI-handled phone call, to the automated follow-up email. We plug the leaks in your sales funnel.
-3. **Transparent Pricing:** No hidden fees for website redesigns. We take zero margin on your media spend, which is billed at cost. You know exactly where your $8,500/month (excl. GST) agency investment is going.
+3. **Transparent Pricing:** No hidden fees for website redesigns. We take zero margin on your media spend, which is billed at cost. You know exactly what your $8,500/month (excl. GST) retainer covers.
 4. **Data-Driven Honesty:** We won't promise you 100 new patients in Month 1. We provide realistic benchmarks based on actual Melbourne CPC data and hold ourselves accountable to those numbers.
 
 ---
