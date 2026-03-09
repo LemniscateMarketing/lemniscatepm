@@ -218,7 +218,7 @@ The total investment for this 6-month strategic partnership is **$8,500 AUD per 
 This is a comprehensive retainer that covers agency management fees, technology licensing (including ElevenLabs and AI tools), and direct advertising media spend. Crucially, it includes the complete redesign and development of your website.
 
 ### Internal Budget Allocation Strategy
-While the monthly invoice to Lueur remains a flat $8,500, our internal allocation of these funds shifts dynamically to support the project phases. *Note: We plan deliverables based on a highly efficient $7,500 baseline, ensuring a buffer for unforeseen technical challenges or necessary mid-campaign pivots.*
+While the monthly invoice to Lueur remains a flat $8,500, our internal allocation of these funds shifts dynamically to support the project phases. This ensures that resources are deployed precisely where they are needed most during each stage of the 6-month engagement.
 
 **Months 1 & 2 (The Build Phase):**
 The vast majority of the budget is allocated to heavy development, design, and AI engineering.
