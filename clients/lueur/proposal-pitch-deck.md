@@ -68,7 +68,7 @@ The current website (ozmedica.com.au) will be completely reimagined under the ne
 ### 3.2 Key Features & Deliverables
 
 - **Custom UI/UX Design:** A bespoke, high-end design reflecting the premium nature of Lueur's treatments. We will utilize a modern tech stack (React/Next.js or a headless CMS approach) for lightning-fast load times.
-- **Mobile-First Development:** Over 70% of clinic traffic originates from mobile devices. The site will be engineered for the mobile user first.
+- **Mobile-First Development:** Industry data consistently shows that the majority of health and aesthetic clinic website traffic originates from mobile devices. The site will be engineered for the mobile user first.
 - **Treatment-Specific Landing Pages:** Development of dedicated, single-issue landing pages (e.g., Acne Management, Pigmentation Correction, Anti-Aging). Data shows that campaigns focused on one clear problem convert significantly higher than generic clinic pages.
 - **Before & After Galleries:** Integrated, compliant galleries showcasing authentic results to build trust, adhering strictly to AHPRA and TGA guidelines.
 - **Technical SEO Foundation:** Built from the ground up for speed, security (SSL), structured data (Schema markup for local medical businesses), and search engine crawlability.
@@ -245,7 +245,7 @@ We do not guarantee specific lead volumes in Month 1, as doing so in the Melbour
 | :--- | :--- | :--- |
 | **Website Conversion Rate** | 3% - 5% | Achieved by Month 4 |
 | **Blended Cost Per Lead (CPL)** | $40 - $80 AUD | Stabilized by Month 4 |
-| **AI Voice Booking Resolution Rate** | 70%+ | Achieved by Month 4 |
+| **AI Voice Booking Resolution Rate** | 50%–60%+ | Achieved by Month 4 |
 | **Organic Traffic Growth** | 10% MoM Increase | Beginning Month 4 |
 | **Google Ads CTR** | 4% - 6% | Achieved by Month 3 |
 
@@ -371,7 +371,7 @@ All content is written by specialized copywriters, medically reviewed (where nec
 
 Why partner with Lemniscate Marketing over another Melbourne agency?
 
-1. **Specialization:** We don't work with plumbers or restaurants. We understand the nuances, compliance regulations (AHPRA/TGA), and patient psychology specific to the aesthetic and medical sectors.
+1. **Specialization:** We specialise exclusively in the health and aesthetic sector. This means we understand the nuances, compliance regulations (AHPRA/TGA), and patient psychology that generalist agencies simply do not.
 2. **The Automation Edge:** Traditional agencies focus only on driving traffic. We focus on the entire pipeline — from the first click to the AI-handled phone call, to the automated follow-up email. We plug the leaks in your sales funnel.
 3. **Transparent Pricing:** No hidden fees for website redesigns. No opaque media spend margins. You know exactly where your $8,500 monthly investment is going.
 4. **Data-Driven Honesty:** We won't promise you 100 new patients in Month 1. We provide realistic benchmarks based on actual Melbourne CPC data and hold ourselves accountable to those numbers.
@@ -403,9 +403,6 @@ For absolute clarity, your $8,500 AUD/month investment over 6 months includes:
 - Real-time analytics dashboard.
 - Monthly comprehensive performance reports.
 - Dedicated Account Manager and strategic review calls.
-
-*End of Document*
-
 
 ---
 
