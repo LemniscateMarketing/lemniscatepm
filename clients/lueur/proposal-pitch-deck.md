@@ -346,16 +346,16 @@ To build long-term organic traffic, we must establish Lueur as the absolute auth
 - **The Hub (Pillar Page):** A comprehensive, 2,000+ word guide on a broad topic (e.g., "The Ultimate Guide to Treating Pigmentation in Melbourne").
 - **The Spokes (Cluster Content):** Shorter, highly specific articles that link back to the Hub (e.g., "Melasma vs. Sun Spots: What's the Difference?", "Best Skincare Ingredients for Hyperpigmentation", "Does Pico Laser Hurt?").
 
-### Month 1-3 Content Roadmap Example
-- *Month 1 Focus (Acne & Scarring):*
+### Month 3-5 Content Roadmap Example
+- *Month 3 Focus (Acne & Scarring):*
   - Hub: Comprehensive Guide to Acne Treatment Options
   - Spoke 1: Hormonal Acne vs. Bacterial Acne
   - Spoke 2: How Microneedling Reduces Acne Scarring
-- *Month 2 Focus (Anti-Aging):*
+- *Month 4 Focus (Anti-Aging):*
   - Hub: Non-Surgical Anti-Aging Treatments Explained
   - Spoke 1: Preventative Anti-Wrinkle Strategies in your 20s
   - Spoke 2: The Science Behind Collagen Production
-- *Month 3 Focus (Pigmentation):*
+- *Month 5 Focus (Pigmentation):*
   - Hub: Understanding and Treating Hyperpigmentation
   - Spoke 1: Why Winter is the Best Time for Laser Peels
   - Spoke 2: Post-Inflammatory Erythema (PIE) Treatments
