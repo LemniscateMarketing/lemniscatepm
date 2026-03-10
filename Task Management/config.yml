@@ -1,0 +1,45 @@
+# Loop — Workspace Configuration
+# Edit this file to match your agency and project settings.
+
+workspace:
+  name: "Lemniscate Marketing"
+  timezone: "America/Toronto"        # change to your timezone
+  default_priority: medium
+  schema_version: "3.1"
+
+github:
+  owner: "LemniscateMarketing"
+  repo: "lemniscatepm"
+  branch: main
+  workspace_folder: "Task Management" # subfolder inside repo that is the Loop workspace
+
+tasks:
+  auto_archive_done_after_days: 30   # move done tasks to archived after N days
+  warn_overdue_after_hours: 24       # flag overdue tasks after N hours past due_date
+  id_length: 6                       # chars in task ID (do not change after tasks exist)
+
+definition_of_done:
+  - Assignee has reviewed and confirmed complete
+  - Client notified if deliverable was client-facing
+  - Attachments uploaded if relevant
+  - Time log updated with actual hours
+
+notifications:
+  conflict_alert: true               # badge when conflict_flag is true
+  overdue_alert: true                # alert when task passes due_date
+  recurring_reminder_hours_before: 24 # warn before recurring task is due
+
+templates:
+  available:
+    - seo-audit
+    - client-onboarding
+    # add more as you build them in templates/
+
+clients:
+  # Add client slugs here as you onboard them.
+  # Slug = lowercase, hyphenated, no spaces (e.g. "acme-corp")
+  # These are used in the `client` field of task files.
+  # Example:
+  # - slug: acme-corp
+  #   name: Acme Corp
+  #   contact: jane@acme.com
