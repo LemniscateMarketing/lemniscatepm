@@ -501,6 +501,76 @@
     .md-body blockquote { border-left: 3px solid var(--accent); padding-left: 12px; margin: 8px 0; color: var(--text-muted); font-style: italic; }
     .md-body code { background: var(--bg-secondary); padding: 2px 5px; border-radius: 4px; font-family: monospace; font-size: 12px; color: var(--text-primary); }
 
+    /* ── RESET MODAL ─────────────────────────────── */
+    .reset-overlay {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(20,20,19,0.6);
+      z-index: 400;
+      align-items: center;
+      justify-content: center;
+    }
+    .reset-overlay.visible { display: flex; }
+    .reset-modal {
+      background: var(--bg-card);
+      border-radius: 14px;
+      width: 90%;
+      max-width: 440px;
+      box-shadow: 0 20px 60px rgba(20,20,19,0.25);
+      overflow: hidden;
+    }
+    .reset-header {
+      background: #fef2f2;
+      padding: 20px 24px 16px;
+      border-bottom: 1px solid #fecaca;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    .reset-icon { font-size: 24px; flex-shrink: 0; }
+    .reset-header h3 { font-size: 16px; font-weight: 600; color: #dc2626; margin: 0; }
+    .reset-body { padding: 20px 24px; }
+    .reset-body p { font-size: 14px; color: var(--text-secondary); margin-bottom: 12px; line-height: 1.55; }
+    .reset-body strong { color: var(--text-primary); }
+    .reset-body ul { font-size: 13px; color: var(--text-secondary); margin: 8px 0 16px 18px; }
+    .reset-body ul li { margin-bottom: 4px; }
+    .reset-confirm-row { margin-top: 16px; }
+    .reset-confirm-row label { font-size: 12px; font-weight: 600; color: var(--text-secondary); text-transform: uppercase; letter-spacing: 0.06em; display: block; margin-bottom: 6px; }
+    .reset-confirm-row input {
+      width: 100%;
+      padding: 9px 12px;
+      border: 1.5px solid var(--border);
+      border-radius: 8px;
+      font-size: 14px;
+      font-family: monospace;
+      font-weight: 600;
+      letter-spacing: 0.1em;
+      outline: none;
+      transition: border-color 0.15s;
+    }
+    .reset-confirm-row input:focus { border-color: #dc2626; }
+    .reset-footer {
+      padding: 16px 24px;
+      border-top: 1px solid var(--border);
+      display: flex;
+      justify-content: flex-end;
+      gap: 8px;
+    }
+    .btn-cancel { background: var(--bg-secondary); color: var(--text-primary); border: 1px solid var(--border); }
+    .btn-cancel:hover { background: var(--border); }
+    .btn-danger {
+      background: #dc2626;
+      color: white;
+      border: none;
+      opacity: 0.4;
+      cursor: not-allowed;
+      transition: opacity 0.15s;
+    }
+    .btn-danger.ready { opacity: 1; cursor: pointer; }
+    .btn-danger.ready:hover { background: #b91c1c; }
+    .reset-progress { font-size: 13px; color: var(--text-muted); padding: 10px 0 4px; min-height: 22px; }
+
     /* ── STATUS BAR ──────────────────────────────── */
     .status-bar {
       position: fixed;
@@ -542,9 +612,13 @@
     <p>Enter your GitHub details to load your Loop workspace. Your token is stored only in this browser.</p>
 
     <div class="setup-field">
-      <label>GitHub Personal Access Token</label>
-      <input id="setupToken" type="password" placeholder="ghp_xxxxxxxxxxxxxxxxxxxx">
-      <div class="setup-hint">Needs <strong>repo</strong> scope. <a href="https://github.com/settings/tokens/new?scopes=repo" target="_blank" style="color:var(--accent);">Create one here →</a></div>
+      <label>GitHub Fine-Grained Access Token</label>
+      <input id="setupToken" type="password" placeholder="github_pat_xxxxxxxxxxxxxxxxxxxx">
+      <div class="setup-hint">
+        <a href="https://github.com/settings/personal-access-tokens/new" target="_blank" style="color:var(--accent);font-weight:500;">Create a fine-grained token →</a>
+        &nbsp;·&nbsp; Set <strong>Repository access</strong> to <em>Only select repositories</em> → pick your repo
+        &nbsp;·&nbsp; Under <strong>Permissions</strong>, set <em>Contents</em> to <strong>Read and write</strong>. That's all.
+      </div>
     </div>
     <div class="setup-field">
       <label>GitHub Owner</label>
@@ -607,6 +681,7 @@
       </div>
       <button id="btnRefresh">↻ Refresh</button>
       <button id="btnSettings" style="padding:8px 10px;" title="Settings">⚙</button>
+      <button id="btnReset" style="padding:8px 10px;color:#dc2626;border-color:#fecaca;" title="Factory Reset">⟳ Reset</button>
     </div>
   </header>
 
@@ -655,6 +730,37 @@
         </a>
         <button id="modalCloseBtn">Close</button>
       </div>
+    </div>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!--  RESET MODAL                                    -->
+<!-- ═══════════════════════════════════════════════ -->
+<div class="reset-overlay" id="resetModal">
+  <div class="reset-modal">
+    <div class="reset-header">
+      <div class="reset-icon">⚠️</div>
+      <h3>Factory Reset Workspace</h3>
+    </div>
+    <div class="reset-body">
+      <p>This will <strong>permanently delete all task files</strong> from your GitHub repo and reset the board to a clean state.</p>
+      <ul>
+        <li>All files in <code>tasks/*.md</code> will be deleted</li>
+        <li><code>tasks/manifest.json</code> will be reset to empty</li>
+        <li>Templates, config, and schema files are <strong>not</strong> touched</li>
+        <li>Git history is preserved — you can recover via GitHub if needed</li>
+      </ul>
+      <p>This is useful for testing or starting a fresh client workspace. It cannot be undone from this dashboard.</p>
+      <div class="reset-confirm-row">
+        <label>Type RESET to confirm</label>
+        <input type="text" id="resetConfirmInput" placeholder="RESET" autocomplete="off" spellcheck="false">
+      </div>
+      <div class="reset-progress" id="resetProgress"></div>
+    </div>
+    <div class="reset-footer">
+      <button class="btn-cancel" id="resetCancel">Cancel</button>
+      <button class="btn-danger" id="resetConfirmBtn" disabled>Delete all tasks</button>
     </div>
   </div>
 </div>
@@ -1099,6 +1205,104 @@ function renderMarkdownBody(raw) {
   return html
 }
 
+// ── GITHUB WRITE HELPERS ──────────────────────────
+async function ghDelete(path, sha, message) {
+  const res = await fetch(ghUrl(path), {
+    method: 'DELETE',
+    headers: {
+      Authorization: `Bearer ${GH.token}`,
+      Accept: 'application/vnd.github+json',
+      'Content-Type': 'application/json'
+    },
+    body: JSON.stringify({ message, sha })
+  })
+  if (!res.ok) throw new Error(`GitHub DELETE ${res.status}: ${res.statusText}`)
+}
+
+async function ghPut(path, content, sha, message) {
+  const body = {
+    message,
+    content: btoa(unescape(encodeURIComponent(content)))
+  }
+  if (sha) body.sha = sha
+  const res = await fetch(ghUrl(path), {
+    method: 'PUT',
+    headers: {
+      Authorization: `Bearer ${GH.token}`,
+      Accept: 'application/vnd.github+json',
+      'Content-Type': 'application/json'
+    },
+    body: JSON.stringify(body)
+  })
+  if (!res.ok) throw new Error(`GitHub PUT ${res.status}: ${res.statusText}`)
+}
+
+// ── FACTORY RESET ─────────────────────────────────
+async function resetWorkspace() {
+  const progress = document.getElementById('resetProgress')
+  const btn = document.getElementById('resetConfirmBtn')
+  btn.disabled = true
+  btn.classList.remove('ready')
+
+  try {
+    // 1. List all files in tasks/
+    progress.textContent = 'Fetching task list…'
+    const dirRes = await fetch(ghUrl('tasks'), {
+      headers: { Authorization: `Bearer ${GH.token}`, Accept: 'application/vnd.github+json' }
+    })
+    if (!dirRes.ok) throw new Error(`Could not read tasks/ directory (${dirRes.status})`)
+    const files = await dirRes.json()
+
+    // 2. Delete each .md task file (skip manifest.json)
+    const taskFiles = files.filter(f => f.name.endsWith('.md'))
+    if (taskFiles.length === 0) {
+      progress.textContent = 'No task files found — just resetting manifest.'
+    } else {
+      for (let i = 0; i < taskFiles.length; i++) {
+        const f = taskFiles[i]
+        progress.textContent = `Deleting ${i + 1}/${taskFiles.length}: ${f.name}…`
+        await ghDelete(`tasks/${f.name}`, f.sha, `reset: remove ${f.name}`)
+      }
+    }
+
+    // 3. Reset manifest.json
+    progress.textContent = 'Resetting manifest.json…'
+    const manifestFile = files.find(f => f.name === 'manifest.json')
+    const emptyManifest = JSON.stringify({
+      version: 1,
+      updated_at: new Date().toISOString().split('.')[0] + 'Z',
+      tasks: []
+    }, null, 2)
+    await ghPut('tasks/manifest.json', emptyManifest, manifestFile ? manifestFile.sha : null, 'reset: clear all tasks')
+
+    // 4. Done
+    progress.innerHTML = '<span style="color:#16a34a;">✓ Reset complete — workspace is clean.</span>'
+    setTimeout(() => {
+      closeResetModal()
+      loadAndRender()
+      showStatus('Workspace reset. Board is clean.')
+    }, 1200)
+
+  } catch (err) {
+    progress.innerHTML = `<span style="color:#dc2626;">Error: ${escHtml(err.message)}</span>`
+    btn.disabled = false
+    btn.classList.add('ready')
+  }
+}
+
+function openResetModal() {
+  document.getElementById('resetModal').classList.add('visible')
+  document.getElementById('resetConfirmInput').value = ''
+  document.getElementById('resetProgress').textContent = ''
+  document.getElementById('resetConfirmBtn').disabled = true
+  document.getElementById('resetConfirmBtn').classList.remove('ready')
+  setTimeout(() => document.getElementById('resetConfirmInput').focus(), 50)
+}
+
+function closeResetModal() {
+  document.getElementById('resetModal').classList.remove('visible')
+}
+
 // ── UTILS ─────────────────────────────────────────
 function escHtml(str) {
   if (!str) return ''
@@ -1160,6 +1364,24 @@ document.getElementById('btnSettings').addEventListener('click', () => {
     localStorage.removeItem(CFG_KEY)
     location.reload()
   }
+})
+
+document.getElementById('btnReset').addEventListener('click', openResetModal)
+document.getElementById('resetCancel').addEventListener('click', closeResetModal)
+document.getElementById('resetModal').addEventListener('click', e => {
+  if (e.target === document.getElementById('resetModal')) closeResetModal()
+})
+
+document.getElementById('resetConfirmInput').addEventListener('input', e => {
+  const ready = e.target.value.trim().toUpperCase() === 'RESET'
+  const btn = document.getElementById('resetConfirmBtn')
+  btn.disabled = !ready
+  ready ? btn.classList.add('ready') : btn.classList.remove('ready')
+})
+
+document.getElementById('resetConfirmBtn').addEventListener('click', () => {
+  if (!document.getElementById('resetConfirmBtn').classList.contains('ready')) return
+  resetWorkspace()
 })
 
 // Auto-refresh every 5 minutes
